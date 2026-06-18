@@ -1,0 +1,34 @@
+# 언리얼 자체 빌드 및 임시 캐시 폴더
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Audio/GeneratedSoundBanks/
+Collections/
+
+# 로컬 개발 환경 및 IDE 설정
+.vs/
+.vsconfig
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.pidb
+*.user
+*.useroscc
+*.sln.docuser
+.p4config
+*.p4/
+
+# 유료 에셋
+Content/animations/
+Content/cplomedia_ArtillerySoundFX/
+Content/cplomedia_TankSoundFX/
+Content/Elite_Desert/
+Content/Factoryinteriorkit/
+Content/Realistic_Starter_VFX_Pack_Niagara/
+Content/Stalker1/
+Content/WTSFX_Explosion_V1/
